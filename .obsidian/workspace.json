@@ -39,12 +39,14 @@
             "id": "e1962ccf0c285f20",
             "type": "leaf",
             "state": {
-              "type": "excalidraw",
+              "type": "markdown",
               "state": {
-                "file": "_posts/Drawing 2025-02-09 01.36.05.excalidraw.md"
+                "file": "_tabs/Projects.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "excalidraw-icon",
-              "title": "Drawing 2025-02-09 01.36.05.excalidraw"
+              "icon": "lucide-file",
+              "title": "Projects"
             }
           }
         ],
@@ -193,6 +195,9 @@
   },
   "active": "e1962ccf0c285f20",
   "lastOpenFiles": [
+    "_tabs/categories.md",
+    "_tabs/Projects.md",
+    "_posts/Drawing 2025-02-09 01.36.05.excalidraw.md",
     "_posts/2025-2-8-Bomb-Lab-WalkThrough.md",
     "_posts/2023-7-10-Sau-Walkthrough.md",
     "_tabs/about.md",
@@ -201,7 +206,6 @@
     "assets/images/blackhole.jpeg",
     "assets/images/binary-bomb-lab.jpg",
     "_posts/assets/images/blackhole.jpeg",
-    "_posts/Drawing 2025-02-09 01.36.05.excalidraw.md",
     "workflows",
     "_posts/assets/images/0x00.png",
     "CHANGELOG.md",
@@ -209,7 +213,6 @@
     "README.md",
     "_tabs/archives.md",
     "_tabs/tags.md",
-    "_tabs/categories.md",
     "assets/images/Pasted image 20230604092847.png",
     "_posts/2023-5-30-PC-Walkthrough.md",
     "_site/assets/images/blackhole.jpeg",
