@@ -1,7 +1,7 @@
 ---
 layout: post
 status: publish
-published: true
+published: false
 title: Binary Bomb Lab WalkThrough
 author: horus
 categories:
